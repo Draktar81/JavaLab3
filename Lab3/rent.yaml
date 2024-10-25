@@ -1,0 +1,15 @@
+---
+room:
+  type: "Luxury"
+  bedCount: 5
+  number: 301
+  comfortables: "Best of the best"
+customer:
+  name: "Vilanti"
+  surname: "Krabino"
+  document: "received"
+  dateOfBirth: "15.10.1998"
+dateOfStart: "02.10.2024"
+dateOfEnd: "10.10.2024"
+paymentDetails: "card"
+price: 765.0
